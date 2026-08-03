@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramratan777/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Ramratan777/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0493-reverse-pairs](https://github.com/Ramratan777/DSA-Solutions/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +28,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramratan777/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ramratan777/DSA-Solutions/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ramratan777/DSA-Solutions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ramratan777/DSA-Solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ramratan777/DSA-Solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ramratan777/DSA-Solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ramratan777/DSA-Solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ramratan777/DSA-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
