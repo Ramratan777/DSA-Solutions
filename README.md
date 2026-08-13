@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramratan777/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Ramratan777/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Ramratan777/DSA-Solutions/tree/master/0493-reverse-pairs) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ramratan777/DSA-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ramratan777/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ramratan777/DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ramratan777/DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ramratan777/DSA-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Ramratan777/DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+## Sorting
+|  |
+| ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ramratan777/DSA-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 <!---LeetCode Topics End-->
