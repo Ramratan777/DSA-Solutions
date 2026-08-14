@@ -68,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ramratan777/DSA-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ramratan777/DSA-Solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ramratan777/DSA-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
