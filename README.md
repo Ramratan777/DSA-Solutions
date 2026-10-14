@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ramratan777/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Ramratan777/DSA-Solutions/tree/master/0050-powx-n) |
 ## Stack
 |  |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Ramratan777/DSA-Solutions/tree/master/0402-remove-k-digits) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ramratan777/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
