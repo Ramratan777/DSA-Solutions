@@ -115,4 +115,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ramratan777/DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ramratan777/DSA-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ramratan777/DSA-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ramratan777/DSA-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ramratan777/DSA-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Ramratan777/DSA-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
