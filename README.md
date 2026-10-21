@@ -121,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramratan777/DSA-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramratan777/DSA-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramratan777/DSA-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramratan777/DSA-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## String Matching
 |  |
 | ------- |
