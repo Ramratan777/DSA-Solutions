@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ramratan777/DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ramratan777/DSA-Solutions/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ramratan777/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/Ramratan777/DSA-Solutions/tree/master/0402-remove-k-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ramratan777/DSA-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ramratan777/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ramratan777/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramratan777/DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ramratan777/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramratan777/DSA-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ramratan777/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramratan777/DSA-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ramratan777/DSA-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ramratan777/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Ramratan777/DSA-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ramratan777/DSA-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
